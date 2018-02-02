@@ -1,1 +1,3 @@
 # CoreJava
+
+This repo contains all code related to core java concepts  as inner classes, nested classes ,abstracts ,lists.......
